@@ -6,3 +6,4 @@
 ### [ДЗ №2](https://github.com/Dermogod/data_analysis/blob/main/%D0%B4%D0%B7_%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85_2.ipynb)
 ### [ДЗ №3](https://github.com/Dermogod/data_analysis/blob/main/I_probability_hw_3_stat.ipynb)
 ### [ДЗ №4](https://github.com/Dermogod/data_analysis/blob/main/II_machine_learning_intro_hw.ipynb)
+### [ДЗ №5](https://github.com/Dermogod/data_analysis/blob/main/III_machine_learning_supervised_hw.ipynb)
