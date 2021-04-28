@@ -9,3 +9,4 @@
 ### [ДЗ №5](https://github.com/Dermogod/data_analysis/blob/main/III_machine_learning_supervised_hw.ipynb)
 ### [ДЗ №6](https://github.com/Dermogod/data_analysis/blob/main/IV_machine_learning_unsupervised_hw.ipynb)
 ### [ДЗ №7](https://github.com/Dermogod/data_analysis/blob/main/V_machine_learning_tuning_hw.ipynb)
+### [ДЗ №8](https://github.com/Dermogod/data_analysis/blob/main/VI_machine_learning_production_hw.ipynb)
